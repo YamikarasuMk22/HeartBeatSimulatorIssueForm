@@ -24,22 +24,22 @@ A clear and concise description of what you expected to happen.
 どのように修正されるべきかをここに書いてください。
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-スクリーンショットがある場合ここに添付してください。
+If applicable, add screenshots to help explain your problem. [Optional]
+スクリーンショットがある場合ここに添付してください。[任意]
 
-**Desktop (please complete the following information):**
-バグが発生したデバイスの情報をここに書いてください (PC用)。
+**Desktop (please complete the following information):** [Optional]
+バグが発生したデバイスの情報をここに書いてください (PC用)。[任意]
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
-バグが発生したデバイスの情報をここに書いてください (スマホ用)。
+**Smartphone (please complete the following information):** [Optional]
+バグが発生したデバイスの情報をここに書いてください (スマホ用)。[任意]
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
-その他、何かあればここに書いてください。
+Add any other context about the problem here. [Optional]
+その他、何かあればここに書いてください。[任意]
